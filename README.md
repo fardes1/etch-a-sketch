@@ -1,1 +1,1 @@
-# I'll be making a Etch-a-Sketch
+I'll make an Etch-a-Sketch-like thing.
