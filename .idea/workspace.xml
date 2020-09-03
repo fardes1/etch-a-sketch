@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2034451f-d729-4910-b8af-6b744dc2b80d" name="Default Changelist" comment="" />
+    <list default="true" id="2034451f-d729-4910-b8af-6b744dc2b80d" name="Default Changelist" comment="2nd protoype">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lucas Nagel &lt;54086787+fardes1@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gwOR3xrviWcgVSkWP2FYbIOeDr" />
@@ -43,11 +53,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599022176826</updated>
-      <workItem from="1599022178322" duration="6957000" />
+      <workItem from="1599022178322" duration="7104000" />
+      <workItem from="1599113533191" duration="7125000" />
     </task>
+    <task id="LOCAL-00001" summary="1st prototype">
+      <created>1599029894791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599029894791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st prototype" />
+    <MESSAGE value="2nd protoype" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd protoype" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2" timestamp="1599120523844">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2/72.26.1848.1054@72.26.1848.1054" timestamp="1599120523844" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599029902810">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.26.1848.1054@72.26.1848.1054" timestamp="1599029902810" />
   </component>
 </project>
