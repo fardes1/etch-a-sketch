@@ -21,14 +21,6 @@ body {
     margin: 10px;
 }
 
-.gridContainer2 {
-    display: grid;
-    height: 600px;
-    width: 600px;
-    grid-template-rows: repeat(16, auto);
-    grid-template-columns: repeat(16, auto);
-}
-
 .square {
     background-color: #c1c1c1;
     margin: 1px;
