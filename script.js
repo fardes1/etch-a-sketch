@@ -43,7 +43,6 @@ btn.addEventListener('click', () => {
         square.style.cssText = "background-color: #c1c1c1";
     })
 
-
     let input = prompt('Enter squares');
     deleteCells();
     reSize(input);
