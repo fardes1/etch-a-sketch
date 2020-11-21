@@ -1,1 +1,1 @@
-Making an Etch a Sketch-like thing.
+Etch-a-sketch game.
